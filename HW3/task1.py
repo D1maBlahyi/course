@@ -1,5 +1,3 @@
-#1
-from xml.etree.ElementPath import prepare_predicate
 
 print('I love Python  ' * 42)
 
@@ -23,4 +21,4 @@ print(type(value))
 #6
 a, b, c = 2, 5, 6
 d = str(a) + str(b) + str(c)
-print(d)
+print(d)  
